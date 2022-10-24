@@ -1,0 +1,6 @@
+# pdf-regex-extractor
+
+Enter a regex and the progrem willput in a pdf file all matched words structured like:
+page, word
+1, ...
+5, ...
